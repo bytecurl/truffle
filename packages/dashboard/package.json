@@ -51,7 +51,7 @@
     "@types/ethereum-protocol": "^1.0.2",
     "@types/express": "^4.17.13",
     "@types/jest": "^27.0.3",
-    "@types/node": "^12.0.0",
+    "@types/node": "17.0.23",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
     "@types/web3": "^1.2.2",
